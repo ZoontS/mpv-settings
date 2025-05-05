@@ -1,3 +1,16 @@
+# Zoont's MPV Settings
+Tsubajashi's mpv-settings edited to my liking. Basically uploaded to github as a backup, but feel free to use and edit if you want. Only tested on windows, mpv_linux.conf & mpv_osx.conf are untouched
+
+## Changes (not comprehensive)
+
+- Different/updated ModernX version
+- Remembers audio volume from the last time you opened MPV (Similar to how VLC works)
+- Thumbnails when you hover your cursor over the timeline
+- Window size follows video resolution with minimum size is 480p to keep it from getting too small
+- audio-file-auto set to exact to prevent playing audio that have similar file names as the currently viewed video
+- Enabled some luma downscaling options
+
+# ORIGINAL README
 # mpv-settings
 my settings for MPV (Windows/Mac/Linux Compatible)
 
